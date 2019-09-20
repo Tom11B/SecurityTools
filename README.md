@@ -1,2 +1,2 @@
 # SecurityTools
-Basic security testing tools primaraly for windows environments 
+Basic security testing tools, written primaraly for windows environments 
